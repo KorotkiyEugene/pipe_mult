@@ -1,1 +1,1 @@
-#This repo contains example of pipelined multiplier written in Verilog with System Verilog testbanch for verification
+This repo contains example of pipelined multiplier written in Verilog with System Verilog testbench for verification
